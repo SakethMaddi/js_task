@@ -1,0 +1,12 @@
+#sentence{
+    font-size: x-large;
+    margin-top: 10%;
+    margin-left: 5%;
+}
+#user_input{
+    width: 0%;
+}
+html,body
+{
+    background-color: grey;
+}

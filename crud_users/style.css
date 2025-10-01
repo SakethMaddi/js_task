@@ -1,0 +1,10 @@
+#card_container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card_data{
+    border: 1px solid grey;
+    width: 350px;
+    padding: 8px;
+    margin: 1px;
+}

@@ -1,0 +1,12 @@
+#products{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 7%;
+}
+.card{
+    width: 200px;
+    border: 1px solid grey;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 1px;
+}
